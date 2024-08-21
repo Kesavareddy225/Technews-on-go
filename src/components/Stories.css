@@ -1,0 +1,44 @@
+.card{
+  width: 50%;
+  margin-left: 25%;
+  background: white;
+  padding: 20px 20px 20px 20px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: #797979;
+}
+
+.card h3{
+  font-size: 20px;
+  margin-top: 0px;
+  color: black;
+}
+
+.bottom{
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn{
+  margin: 10px;
+  width: 120px;
+  height: 40px;
+  background: transparent;
+  border: none;
+  outline: none;
+}
+
+.btn a{
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.read{
+  color: #797979;
+}
+
+.remove{
+  color: red;
+  font-size: 20px;
+  cursor: pointer;
+}

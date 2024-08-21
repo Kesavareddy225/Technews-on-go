@@ -1,0 +1,13 @@
+.header{
+  margin-top: 60px;
+  margin-bottom:20px;
+}
+
+.input{
+  width: 400px;
+  height: 40px;
+  border: none;
+  outline: none;
+  font-size: 20px;
+  border-bottom: 2px solid black;
+}

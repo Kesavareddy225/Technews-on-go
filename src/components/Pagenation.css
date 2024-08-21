@@ -1,0 +1,14 @@
+.page-container{
+  margin-bottom: 20px;
+}
+
+.page-container button{
+  margin: 10px;
+  height: 30px;
+  width: 60px;
+  border: none;
+  background:black;
+  color: white;
+  outline: none;
+  cursor: pointer;
+}
