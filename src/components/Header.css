@@ -9,5 +9,6 @@
   border: none;
   outline: none;
   font-size: 20px;
-  border-bottom: 2px solid black;
+  border-bottom: 2px solid rgb(44, 43, 43);
+  font-weight: 500;
 }
